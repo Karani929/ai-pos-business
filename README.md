@@ -42,9 +42,9 @@
 
 Click the link below for the package you want. You'll pay securely via **M‑Pesa, Card, or Bank Transfer** using Paystack.
 
-- **Buy Basic** → [https://paystack.com/buy/ai-pos-system--basic-wdcgwt](https://paystack.com/buy/ai-pos-system--basic-wdcgwt)
-- **Buy Pro** → [https://paystack.com/buy/ai-pos-system--pro-xdjagc](https://paystack.com/buy/ai-pos-system--pro-xdjagc)
-- **Buy Enterprise** → [https://paystack.com/buy/ai-pos-system--enterprise-ktvwdr](https://paystack.com/buy/ai-pos-system--enterprise-ktvwdr)
+- **Buy Basic** → [https://paystack.com/buy/ai-pos-system--basic-txglsk](https://paystack.com/buy/ai-pos-system--basic-txglsk)
+- **Buy Pro** → [https://paystack.com/buy/ai-pos-system--pro-xndsgz](https://paystack.com/buy/ai-pos-system--pro-xndsgz)
+- **Buy Enterprise** → [https://paystack.com/buy/ai-pos-system--enterprise-uxfiyb](https://paystack.com/buy/ai-pos-system--enterprise-uxfiyb)
 
 ---
 
